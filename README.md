@@ -8,9 +8,8 @@ This project aims to predict passenger survival on the Titanic using machine lea
 ## Highlights
 - Data cleaning and preprocessing
 - Feature encoding
-- Random Forest modeling with hyperparameter tuning
-- Achieved 0.779 accuracy on Kaggle leaderboard
-
+- Random Forest modeling for tabular classification
+  
 ## Tools
 Python, Pandas, NumPy, Scikit-learn
 
